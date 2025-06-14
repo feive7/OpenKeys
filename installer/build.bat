@@ -1,2 +1,2 @@
-# This builds the msi installer with combined .cab file
-dotnet build
+REM This builds the msi installer with combined .cab file
+dotnet build --configuration Release
